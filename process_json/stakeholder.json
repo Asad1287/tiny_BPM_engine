@@ -1,0 +1,30 @@
+{
+  
+    "A": {
+      "type": "group",
+      "name": "Group A",
+      "members": ["stakeholder1@example.com", "stakeholder2@example.com"]
+    },
+    "B": {
+      "type": "individual",
+      "name": "Bob Peterson",
+      "email": "bob.peterson@company.com",
+      "department": "Operations"
+    },
+    "D": {
+      "type": "external",
+      "name": "Acme Consulting",
+      "contact_email": "info@acmeconsulting.com"
+    },
+    "E": {
+      "type": "individual",
+      "name": "David Thompson",
+      "email": "david.thompson@company.com",
+      "department": "Legal"
+    },
+    "F": {
+      "type": "group",
+      "name": "Management Approval Team",
+      "members": ["manager1@company.com", "manager2@company.com"]
+    }
+  }
